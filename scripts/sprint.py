@@ -1,9 +1,7 @@
 import os
 import sys,time
-from scripts import colors
-c = colors
 def sprint(str):
-	for i in str +c.c + "\n":
+	for i in str + "\n":
 		sys.stdout.write(i)
 		sys.stdout.flush()
 

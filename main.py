@@ -1,5 +1,4 @@
 from scripts.sprint import sprint
-from scripts.colors import ran, y, r, g, c
 from subprocess import call
 import time
 import os
@@ -29,19 +28,15 @@ time.sleep(4)
 # clear the Termianl
 os.system('clear')
 
-print(f"""
- ZZz   |\      _,,,---,,_
-    zz /,`.-'`'    -.  ;-;;,_
-      |,4-  ) )-,_. ,\ (  `'-'
-     '---''(_/--'  `-'\_)""")
-print(f"{y}>| {r}Kahoot Answer Client {y}| {r}Made by - CPScript{y} |<")
+
+print(f">| Kahoot Answer Client ||<")
 print(" ")
-print(f"{y}--------------------")
-print(f"{y}/1/ {g}How to use {y}| {r}Shows you how to use the tool{y}")
-print(f"{y}/2/ {g}Information {y}| {r}Credits, licence, and more{y}")
-print(f"{y}/3/ {g}Flooder {y}| {r}Flood a Kahoot game (Getting Updated!){y}")
-print(f"{y}/4/ {g}Answer Hack {y}| {r}Start the answer client{y}")
-print(f"{y}--------------------")
+print(f"--------------------")
+print(f"/1/ How to use | Shows you how to use the tool")
+print(f"/2/ Information | Credits, licence, and more")
+print(f"/3/ Flooder | Flood a Kahoot game (Getting Updated!)")
+print(f"/4/ Answer Hack | Start the answer client")
+print(f"--------------------")
 choice = input("Make Number Selection :")
 
 
@@ -72,16 +67,5 @@ if choice == "4":
 
 time.sleep(25)
 print(" ")
-print("Program Made by CPScript")
-print(" ")
-print("""
-⠀⠀⠀⠀⠀⢸⣿⣷⣶⣤⣀⣤⣴⣶⣶⣶⣶⣦⣤⣀⣤⣶⣾⣿⡇
-⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃
-⠀⠀⠠⣤⣀⡀⠹⣿⣿⣿⣿⠿⠿⣿⣿⣿⣿⠿⠿⣿⣿⣿⣿⠃⢀⣀⣤⠄
-⢀⠤⢤⣤⣬⣙⠳⣿⣿⡿⠀⢀⠀⠈⣿⣿⠁⠀⡀⠈⣿⣿⣿⠞⣋⣥⣤⠤⠤⡀
-⠀⢀⡤⠤⢤⣼⣿⣿⣿⣿⡀⠸⠀⣠⣿⣿⣄⠐⠇⢀⣿⣿⣿⣿⣧⡤⠤⢤⡀
-⠀⠀⢠⣾⣿⣿⣿⣿⣿⣿⠛⠛⠛⠛⠉⠉⠛⠛⠛⠛⣿⣿⣿⣿⣿⣿⣷⡀
-===⠛⠿⢿⣿⠟⠛⠁==========⠈⠛⠻⣿⡿⠻⠛======
-======| Follow CPScript |========
-=================================
-""")
+print("Program Made by 7inngz")
+
