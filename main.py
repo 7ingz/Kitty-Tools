@@ -3,7 +3,6 @@ from subprocess import call
 import time
 import os
 from os import system
-os.system('git clone https://github.com/CPScript/Kitty-Tools') # update
 
 # clear Terminal:
 os.system('clear')
@@ -18,16 +17,10 @@ os.system('clear')
 #    dr = '/' 
 #os.system(delet) 
 
-# tui
-print(f"|======= News =======| ")
-print(f" News: we'll be right back with that!")
-print(f" Note: *STAR* this repo so I can get more support :p")
-print(f"|====================| ")
-time.sleep(4) 
 
 # clear the Termianl
-os.system('clear')
-
+os.system('delete')
+  
 
 print(f">| Kahoot Answer Client ||<")
 print(" ")

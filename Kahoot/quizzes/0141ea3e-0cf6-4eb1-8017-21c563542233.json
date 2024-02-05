@@ -1,0 +1,59 @@
+{
+    "answers": {
+        "Question 1": "Could not find any answers",
+        "Question 2": "Red",
+        "Question 3": [
+            "Blue",
+            "Red",
+            "Yellow",
+            "Green"
+        ],
+        "Question 4": "Red",
+        "Question 5": [
+            "Blue",
+            "Red",
+            "Yellow",
+            "Green"
+        ],
+        "Question 6": [
+            "Blue",
+            "Red",
+            "Yellow"
+        ],
+        "Question 7": [
+            "Blue",
+            "Yellow"
+        ],
+        "Question 8": "Red",
+        "Question 9": [
+            "Blue",
+            "Red",
+            "Green"
+        ],
+        "Question 10": "Could not find any answers"
+    },
+    "questions": {
+        "Question 1": "Could not find the question",
+        "Question 2": "Thor was banished to Earth by his father to learn how to put others before himself.",
+        "Question 3": "How might Thor put others before himself?",
+        "Question 4": "Captain Marvel is very brave, adventurous, confident, and an inspiration to others.",
+        "Question 5": "Dr. Bruce Banner had to learn to embrace and accept his Super Hero identity, the Hulk. It sometimes made him feel _____.",
+        "Question 6": "Black Panther is responsible for defending Wakanda from any threats. How might he feel when his people are disrespected?",
+        "Question 7": "What are some ways you can cope with feelings of anger?",
+        "Question 8": "What traits help Wasp be a successful long-time leader of the Avengers?",
+        "Question 9": "What are some ways we can work with feeling annoyed?",
+        "Question 10": "Could not find the question"
+    },
+    "images": {
+        "Question 1": "Could not find any images",
+        "Question 2": "https://media.kahoot.it/7dacacd9-d8d0-42af-8f76-9502c888e7f6",
+        "Question 3": "https://media.kahoot.it/65d2256e-0ec9-46f4-b54c-ad00fefe75b9",
+        "Question 4": "https://media.kahoot.it/fd46df0c-2b11-4e44-9a5b-8cb709f6d3e8",
+        "Question 5": "https://media.kahoot.it/1589ce17-950f-488f-a43c-858827af2236",
+        "Question 6": "https://media.kahoot.it/642f503b-41bb-43fd-8849-0d75de09443c",
+        "Question 7": "https://media.kahoot.it/a9fab588-5e1b-42c1-a6e1-27e53275ca86",
+        "Question 8": "https://media.kahoot.it/4b5793cd-92b5-4a33-80dc-156d05afe863",
+        "Question 9": "https://media.kahoot.it/b0557a7e-7725-496d-927a-52b325031d22",
+        "Question 10": "Could not find any images"
+    }
+}
